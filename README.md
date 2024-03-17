@@ -1,6 +1,5 @@
 # MessageIDWisperer
-
-Simple description
+MessageIDWisperer is a tool to simplify the retrieval of Mail Items Accessed of compromised users. While Microsoft does have similar tools to pull some of this data, they are being changed constantly and are a pain to use. To make my life easier and hopefully others, I wrote this tool over the weekend to speed up the process. This tool is still in a very early state and has a few kinks to work out but it gets the job done. There will be more improvements to come.
 
 ## Requirements
 MessageIDWisperer requires the following PowerShell modules to function. The script will check if they are available and download them from the default PowerShell repository if they are not.
